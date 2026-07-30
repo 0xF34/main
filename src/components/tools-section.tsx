@@ -50,7 +50,7 @@ const TOOLS: Tool[] = [
     game: 'Steal a Brainrot',
     description:
       'Auto-steal script with anti-AFK. Pastebin link inside the folder.',
-    url: '#PLACEHOLDER-REPLACE-WITH-YOUR-LINK',
+    url: '#CURRENTLY DOWN',
     badge: 'Free',
     color: '#6d28d9',
   },
@@ -59,7 +59,7 @@ const TOOLS: Tool[] = [
     game: 'Roblox Dice',
     description:
       'Predicts next roll using seed analysis. Works on most dice games.',
-    url: '#PLACEHOLDER-REPLACE-WITH-YOUR-LINK',
+    url: '#https://sabcheck.onrender.com',
     badge: 'Beta',
     color: '#9333ea',
   },
@@ -68,7 +68,7 @@ const TOOLS: Tool[] = [
     game: 'Multiple games',
     description:
       'Player + item ESP. Lightweight, works on most executor environments.',
-    url: '#PLACEHOLDER-REPLACE-WITH-YOUR-LINK',
+    url: '#CURRENTLY DOWN',
     badge: 'Free',
     color: '#7c3aed',
   },
@@ -77,7 +77,7 @@ const TOOLS: Tool[] = [
     game: 'Steal a Brainrot',
     description:
       'Full auto-farm with webhook notifications. Premium tier in Discord.',
-    url: '#PLACEHOLDER-REPLACE-WITH-YOUR-LINK',
+    url: '#DM lcr4',
     badge: 'Premium',
     color: '#c026d3',
   },
@@ -85,7 +85,7 @@ const TOOLS: Tool[] = [
     name: 'Speed + Fly',
     game: 'Universal',
     description: 'Classic mobility scripts. Bypasses most anti-cheat (YMMV).',
-    url: '#PLACEHOLDER-REPLACE-WITH-YOUR-LINK',
+    url: '#CURRENTLY DOWN',
     badge: 'Free',
     color: '#5b21b6',
   },
@@ -94,8 +94,8 @@ const TOOLS: Tool[] = [
     game: 'Roblox Dice',
     description:
       'Clean UI with one-click load. Mobile-friendly. Recommended for iOS users.',
-    url: '#PLACEHOLDER-REPLACE-WITH-YOUR-LINK',
-    badge: 'Free',
+    url: '#DM lcr4',
+    badge: 'Premium',
     color: '#a21caf',
   },
 ]
